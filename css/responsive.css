@@ -1,0 +1,107 @@
+@media(max-width:1050px){
+	.headertop .navbar-light .navbar-nav .nav-link { font-size:14px; padding:10px; }
+	.bannercaption h1 { font-size:28px; }
+	.bannercaption p { font-size:14px; }
+	.plain-text { font-size:16px; }
+	.homeonebox .plain-text br { display:none; }
+	.processimg { width:80%; }
+
+}
+@media(max-width:990px){
+	.headertop .navbar-toggler { position: absolute; top:-60px; right: 30px; z-index: 0; }
+	.headertop .navbar-collapse { position: fixed; top: 0; left: 0; bottom: 0; background: #fff; z-index: 9; width: 100%; padding: 20px; height:100%; display:block; left:-100%; transition:all 0.3s ease; }
+	.navclose {position: absolute; top: 20px; right: 20px; z-index: 99; display: block;background: #333; width: 30px; height: 30px; border-radius: 50%;  color: #fff; font-size: 20px; text-align: center; font-weight: 500; line-height: 28px; cursor:pointer; }
+	.followmainp { font-size:16px; }
+	.sectiontitle { font-size:22px; }
+	.homethree p { font-size:16px; }
+	.mobileschool { flex-wrap:nowrap; }
+}
+@media(max-width:600px){
+	.headertop .navbar-light .navbar-nav .nav-link { font-size:16px; }
+	.aboutone .sectiontitle { text-align: center; }
+	.aboutone .sectiontitle.yellowcolor { padding-top:0px !important; }
+	.logomain { width:160px; }
+	.headertop .navbar-toggler { top: -42px; right: 0px; }
+	.mobilehide { display:none; }
+	.navclose { width:40px; height:40px; font-size:26px; line-height:38px; }
+	.headertop .navbar-collapse { padding:40px 30px; }
+	.bannercaption { position:inherit; text-align: center; }
+	.bannermain { display: flex; flex-direction: column-reverse; background:#f3f3f3; }
+	.bannercaption { width:100%; margin-top:10px; margin-bottom:20px; }
+	.followmain .col-md-4 { margin-bottom:20px; }
+	.followmain .col-md-4:last-child { margin-bottom:0; }
+	.followimg { height:auto; width:75%; }
+	.imgwidth .col-md-4 { margin-bottom:20px; }
+	.homethree .row .col-md-6 { padding-left:15px; padding-right:15px; }
+	.homethree p { text-align:center;  }
+	.processbox { display:block; width:100%; }
+	.processbox p { width:50%; float:left; margin-bottom:20px; font-size:14px; font-weight:500; }
+	.processbox p:last-child { margin-bottom:0; }
+	.plain-text br { display:none; }
+	.lastbutton button {padding: 10px;width: 100%;margin: 6px 0px; font-size:14px; }
+	.plain-text { font-size:14px; }
+	.footernav h3 { font-size:16px; margin-bottom:10px; margin-top:10px; }
+	.footernav p { font-size:14px; }
+	.footernav p a { font-size:14px; }
+	.footernav a { font-size:14px; }
+	.whyphysioiconbox .col-md-3 { width:50%; }
+	.processsvg svg { width:100%; }
+	.presencebox li { padding:10px; width:42%; }
+	.aboutone .col-md-6 p { font-size:14px; }
+	.peoplebox img { width:80%; }
+	.peoplebox .col-md-6 { margin-bottom:20px; }
+	.peoplebox .col-md-6:last-child { margin-bottom:0; }
+	.peoplebox .autname { font-size:16px margin-top:10px; }
+/*all*/
+	p {font-size:14px; }
+	.sectiontitle { font-size:20px; }
+	.mlbox { margin-left:0; }
+	.onsiteservicestwo .col-md-10 { padding-left:0; padding-right:0; }
+	.sectiontitlep { font-size:20px; }
+	.checkbutton { margin:20px 0; font-size:14px; padding:12px; }
+	.checkbuttonsvg svg { width:70%; }
+	.faqyellowbox .faqyellowheader h3 { font-size:20px; }
+	.phyfaqbox p { font-size:14px; }
+	.servicebottomyellow h3 br { display:none; }
+	.servicebottomyellow ul li { width:100%; }
+	.serviceleftsvgstyle { margin-bottom:20px; }
+	.physicalbutton li { width:100%; padding:7px 0; }
+	.physicalbutton li button { padding:10px; font-size:13px; }
+	.physicalfitnessmainsermain .physicalfitnessmainser:before { height:99%; }
+	.choose200 { font-size:14px; }
+	.calctableboxflex { display:block; }
+	.calctablebox p { font-size:14px; }
+	.calctableboxflex input { padding:6px; width:100%; }
+	.calctableboxflex { width:100%; }
+	.calctablebox .sectiontitle { margin-bottom:15px; }
+	.calctableboxflex div { margin-bottom:10px; }
+	.calctablebox button { width:100%; font-size:14px; }
+	.bmiref { width:100%;  font-size:14px; }
+	.meaningbox ul li { font-size:14px; margin:2px; padding:7px; }
+	.meaningbox { margin-bottom:15px; }
+	.calctableone { display:block; }
+	.calcinputflex input { margin:5px 0; }
+	.calcinputflex select { width:100%; }
+	.calctablefour .calctableoneselect { margin:10px 0; }
+	.calctableoneselect { margin:5px 0; }
+	.calcboxesmain ul li { width:100%; margin:10px 0; }
+	.dassmainbox svg {     transform: translateX(0); }
+	.formmain textarea { margin-top:10px; }
+	.formmain button { width:100%; }
+	.homethree { padding:50px 0; }
+	.maplast iframe { width:100%; }
+	.dropdown-menu { border:0; padding:0; }
+	.dropdown-item { font-weight:500; }
+	select { -webkit-appearance: none; }
+	.virtualtextboxmain { display:flex; flex-direction:column; text-align: center; }
+	.virtualtextboxmainleft { width:100%; }
+	.virtualtextboxmainright { width:100%; margin-left:0; margin-top:15px; }
+	.virtualtextboxmainright a { position:inherit; display:inline-block; }
+	.virtualtextboxmainright p { margin-bottom:15px !important; }
+	.virtualtext .plain-text { margin-bottom:20px !important; }
+	.row.dassmainbox.mt20 { padding-bottom:20px; }
+	.row.dassmainbox.mt20 .plain-text.text-left { text-align:center; }
+	.navbar-nav .dropdown-menu { background:none; border:0; }
+	.dropdown-item { color:#333; }
+	.firstinput { width:100% !important; }
+}

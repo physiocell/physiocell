@@ -1,0 +1,104 @@
+.hi-icon-wrap { text-align: center; margin: 0 auto; padding:220px 0; }
+.hi-icon { display: inline-block; font-size:22px; font-weight:500; cursor: pointer; margin: 15px 30px; width: 170px; height: 170px; border-radius: 50%; text-align: center; position: relative; z-index: 1; color: #fff; background:rgba(0, 95, 166, 0.7); text-decoration:none; }
+#si_head_box10 { border:1px solid black; font-size: 17px; height: 100px; padding: 15px 0px 10px 0px; }
+.box { font-size: 17px; }
+.box-one { font-size: 15px; border: 1px solid #ebebeb; }
+.box-two { font-size: 15px; border: 1px solid #ebebeb; height: 109px; }
+.box-three { font-size: 15px; border: 1px solid #ebebeb; height: 109px; }
+.box-four { font-size: 15px; border: 1px solid #ebebeb; height: 109px; }
+.box-five { font-size: 15px; border: 1px solid #ebebeb; height: 109px; }
+.biometric_img img { background-image: url(../images/services_img.jpg); height: 650px; }
+.biometric_img p { color:#fff; width: 100%; background-color: #3e85bd; height: 94px; font-size: 19px; text-align: center; padding:33px; }
+.medical_content { border-radius: 11px; margin-left: 689px; height: 302px; margin-top: -222px; background-color: rgba(25, 87, 134, 0.72); color: #fff; font-size: 21px; width: 53%; padding: 97px; }
+.midecalroom_setup {
+ ba  margin-bottom: -72px; margin-left: 17px; text-align: center; color: rgba(0, 0, 0, 0.67); margin-top: 117px; background-color: rgba(197, 202, 233, 0.7); padding: 21px; width:45%; height: 104px; }
+.biometricbox { margin-bottom: -72px; margin-left: 17px; text-align: center; color: rgba(0, 0, 0, 0.67); margin-top: 176px; background-color: rgba(249, 249, 249, 0.92); padding: 21px; width: 52%; height: 104px; }
+.biometricbox1 { border-radius: 11px; margin-left: 689px; margin-top: -165px; background-color: rgba(242, 124, 33, 0.86); color: #fff; font-size: 15px; width: 44%; padding: 7px; }
+.biometricbox2 { border-radius: 11px; background-color: rgba(62, 133, 189, 0.88); color: #fff; font-size: 15px; width: 44%; margin-top: -49px; margin-left: 689px; padding: 7px; }
+.preemployment { background-color: #e18439; width: 190px; -webkit-box-shadow: 4px -2px 27px 4px rgba(0, 0, 0, 0.33); -moz-box-shadow: 4px -2px 27px 4px rgba(0, 0, 0, 0.33); box-shadow: 4px -2px 27px 4px rgba(0, 0, 0, 0.33); }
+.preemployment b { color: #fff; height: 170px; width: 31%; color:#fff; font-size: 20px; }
+.employee { background-color: #5393c5; margin-left: 130px; width: 190px; -webkit-box-shadow: 4px -2px 27px 4px rgba(0, 0, 0, 0.33); -moz-box-shadow: 4px -2px 27px 4px rgba(0, 0, 0, 0.33); box-shadow: 4px -2px 27px 4px rgba(0, 0, 0, 0.33); }
+.employee b { color: #fff; height: 170px; width: 31%; color:#fff; font-size: 20px; }
+.slider1 img { height: 250px; width: 102%; margin-left: -32px; }
+.womens_screening { background-color: #e18439; margin-left: 130px; width: 190px; -webkit-box-shadow: 4px -2px 27px 4px rgba(0, 0, 0, 0.33); -moz-box-shadow: 4px -2px 27px 4px rgba(0, 0, 0, 0.33); box-shadow: 4px -2px 27px 4px rgba(0, 0, 0, 0.33); }
+.womens_screening b { color: #fff; height: 170px; width: 31%; color:#fff; font-size: 20px; }
+.medical_setup { margin-top: 137px; background-image: url('../images/medical_setup.png'); width: 97%; margin-left: 26px; height: 300px; }
+.container1 { background-image: url('../images/background_bio.png'); width: 97%; margin-left: 26px; height: 450px; }
+.biometricbox3 { border-radius: 11px; background-color: rgba(242, 124, 33, 0.86); color: #fff; font-size: 15px; width: 44%; margin-left: 689px; padding: 7px; }
+.physiocell-offer { background-image: url(../images/backcolor.jpg); width: 113%; background-color: #1a5d91; height: 36px; font-size: 17px; text-align: center; color: #fff; margin-left: -70px; }
+.guidence { background-image: url(../images/backcolor.jpg); width: 128%; background-color: #1a5d91; height: 46px; font-size: 24px; text-align: center; margin-top: 47px; color: #fff; margin-left: -151px; }
+..guidence b {
+ color:#fff;
+ padding: 8px;
+}
+.important_medical b { font-size: 18px; margin-left: -150px; }
+.physiocell-offer-medical { background-image: url(../images/backcolor.jpg); width: 128%; background-color: #1a5d91; height: 46px; font-size: 24px; text-align: center; color: #fff; margin-left: -151px; }
+.imp_biometric { background-image: url(../images/backcolor.jpg); height: 35px; width: 111%; margin-left: -62px; text-align: center; color: #fff;  width:
+}
+.medical_boxicon { width: 121%; margin-top: -10px; margin-left: -8px; }
+.medical_boxicon a { color: #757575; }
+.boxicon { width: 121%; margin-top: -17px; margin-left: -8px; }
+.boxicon a { color: #757575; }
+.healthy { background-color: rgba(239, 231, 231, 0.56); width: 108%; margin-left: -47px; }
+.healthy1 h4 { background-color: #616161; color: #fff; height: 35px; padding-top: 7px; text-align: center; width: 303px; }
+.healthy1 { border-right: 2px solid #397baf; font-size: 16px; }
+.healthy2 { border-right: 2px solid #397baf; font-size: 16px; }
+.healthy3 { font-size: 16px; }
+.healthy2 h4 { background-color: #616161; color: #fff; height: 35px; padding-top: 7px; text-align: center; width: 303px; }
+.healthy3 h4 { background-color: #616161; color: #fff; height: 35px; padding-top: 7px; text-align: center; width: 303px; }
+.blue_box_service { margin-top: 23px; background: #005fa6; padding: 30px; color:#fff; font-size: 19px; text-align: left; }
+.blue_box_service1 { margin-top: 23px; background: #BF360C; padding: 30px; color:#fff; font-size: 19px; text-align: left; }
+.orange_box_service { background: #e67810; padding: 30px; margin-top: 18px; text-align: left; color:#fff; font-size: 19px; border-left: solid 2px #fff; border-right: solid 2px #fff; }
+#si_head_box20 { background: #15304b; padding: 10px 0px 8px 0px; text-align: center; height: 100px; }
+#si_head_box10 { }
+#biometric { font-family: ebrima; padding-top: 5px; height: 82px; background-color:#01579B; }
+#medicle { font-family: ebrima; padding-top: 5px; height: 82px; background-color:black; }
+.margin_lt { margin-left:50px; }
+.hi-icon:after { pointer-events: none; position: absolute; width: 100%; height: 100%; border-radius: 50%; content: ''; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; }
+.hi-icon:before { font-family: 'ecoicon'; speak: none; font-size: 48px; line-height: 90px; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; display: block; -webkit-font-smoothing: antialiased; }
+/* Effect 9 */
+.hi-icon-effect-9 .hi-icon { -webkit-transition: box-shadow 0.2s; -moz-transition: box-shadow 0.2s; transition: box-shadow 0.2s; }
+.hi-icon-effect-9 .hi-icon:after { top: 0; left: 0; padding: 0; box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.6); -webkit-transition: -webkit-transform 0.2s, opacity 0.2s; -moz-transition: -moz-transform 0.2s, opacity 0.2s; transition: transform 0.2s, opacity 0.2s; }
+/* Effect 9a */
+.hi-icon-effect-9a .hi-icon:hover:after { -webkit-transform: scale(0.85); -moz-transform: scale(0.85); -ms-transform: scale(0.85); transform: scale(0.85); opacity: 0.5; }
+.hi-icon-effect-9a .hi-icon:hover { box-shadow: 0 0 0 3px rgba(255, 255, 255, 1); color: #fff; text-decoration:none }
+/* Effect 9b */
+.hi-icon-effect-9b .hi-icon:hover:after { -webkit-transform: scale(0.85); -moz-transform: scale(0.85); -ms-transform: scale(0.85); transform: scale(0.85); }
+.hi-icon-effect-9b .hi-icon:hover { box-shadow: 0 0 0 0px rgba(255, 255, 255, 0.4); color: #fff; }
+.round1 { padding:22px 10px 0 10px; float:left; margin-left:100px; }
+.round2 { padding:50px 10px 0 10px; float:left; margin-right:100px; }
+.round3 { padding:50px 10px 0 10px; float:left; margin-right:100px; }
+.round4 { padding:50px 10px 0 10px; float:left; margin-left:100px; }
+.round5 { padding:40px 10px 0 10px; float:left; margin-left:100px; }
+.round6 { padding:50px 10px 0 10px; float:left; margin-right:100px; }
+.hi-icon-wrap-2 { text-align: center; margin: 0 auto; padding:0 0; }
+.hi-icon-wrap-2 p, .hi-icon-wrap-3 p { font-size:18px; color:#3b3b3b; text-align:center }
+.hi-icon-2 { display: inline-block; font-size:22px; font-weight:500; cursor: pointer; margin: 15px 30px; width: 230px; height:230px; border-radius: 50%; text-align: center; position: relative; z-index: 1; color: #fff; background:#005fa6; text-decoration:none; }
+.hi-icon-2:after { pointer-events: none; position: absolute; width: 100%; height: 100%; border-radius: 50%; content: ''; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; }
+.hi-icon-2:before { font-family: 'ecoicon'; speak: none; font-size: 48px; line-height: 90px; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; display: block; -webkit-font-smoothing: antialiased; }
+/* Effect 9 */
+.hi-icon-effect-9-2 .hi-icon-2 { -webkit-transition: box-shadow 0.2s; -moz-transition: box-shadow 0.2s; transition: box-shadow 0.2s; }
+.hi-icon-effect-9-2 .hi-icon-2:after { top: 0; left: 0; padding: 0; box-shadow: 0 0 0 10px #eaeaea; -webkit-transition: -webkit-transform 0.2s, opacity 0.2s; -moz-transition: -moz-transform 0.2s, opacity 0.2s; transition: transform 0.2s, opacity 0.2s; }
+/* Effect 9a */
+.hi-icon-effect-9a-2 .hi-icon-2:hover:after { -webkit-transform: scale(0.85); -moz-transform: scale(0.85); -ms-transform: scale(0.85); transform: scale(0.85); opacity: 0.5; }
+.hi-icon-effect-9a-2 .hi-icon-2:hover { box-shadow: 0 0 0 3px rgba(255, 255, 255, 1); color: #fff; text-decoration:none }
+.hi-icon-wrap-3 { text-align: center; margin: 0 auto; padding: 0; }
+.hi-icon-3 { display: inline-block; font-size:22px; font-weight:500; cursor: pointer; margin: 15px 30px; width: 230px; height:230px; border-radius: 50%; text-align: center; position: relative; z-index: 1; color: #fff; background:#e67810; text-decoration:none; }
+.hi-icon-3:after { pointer-events: none; position: absolute; width: 100%; height: 100%; border-radius: 50%; content: ''; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; }
+.hi-icon-3:before { font-family: 'ecoicon'; speak: none; font-size: 48px; line-height: 90px; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; display: block; -webkit-font-smoothing: antialiased; }
+/* Effect 9 */
+.hi-icon-effect-9-3 .hi-icon-3 { -webkit-transition: box-shadow 0.2s; -moz-transition: box-shadow 0.2s; transition: box-shadow 0.2s; }
+.hi-icon-effect-9-3 .hi-icon-3:after { top: 0; left: 0; padding: 0; box-shadow: 0 0 0 10px #eaeaea; -webkit-transition: -webkit-transform 0.2s, opacity 0.2s; -moz-transition: -moz-transform 0.2s, opacity 0.2s; transition: transform 0.2s, opacity 0.2s; }
+/* Effect 9a */
+.hi-icon-effect-9a-3 .hi-icon-3:hover:after { -webkit-transform: scale(0.85); -moz-transform: scale(0.85); -ms-transform: scale(0.85); transform: scale(0.85); opacity: 0.5; }
+.hi-icon-effect-9a-3 .hi-icon-3:hover { box-shadow: 0 0 0 3px rgba(255, 255, 255, 1); color: #fff; text-decoration:none }
+.hi-icon-2 img, .hi-icon-3 img { margin:45px 0 0 0; }
+/* Effect 7 */
+.hi-icon-effect-7 .hi-icon { box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.7); -webkit-transition: background 0.2s, color 0.2s; -moz-transition: background 0.2s, color 0.2s; transition: background 0.2s, color 0.2s; }
+.hi-icon-effect-7 .hi-icon:hover { color: #fff; text-decoration:none; }
+.hi-icon-effect-7 .hi-icon:after { top: -8px; left: -8px; padding: 8px; z-index: -1; opacity: 0; }
+/* Effect 7b */
+.hi-icon-effect-7b .hi-icon:after { box-shadow: 5px 5px rgba(0, 95, 166, 1); -webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); -ms-transform: rotate(-90deg); transform: rotate(-90deg); -webkit-transition: opacity 0.2s, -webkit-transform 0.2s; -moz-transition: opacity 0.2s, -moz-transform 0.2s; transition: opacity 0.2s, transform 0.2s; }
+.hi-icon-effect-7b .hi-icon:hover:after { opacity: 1; -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -ms-transform: rotate(0deg); transform: rotate(0deg); }
+.hi-icon-effect-7b .hi-icon:before { -webkit-transform: scale(0.8); -moz-transform: scale(0.8); -ms-transform: scale(0.8); transform: scale(0.8); opacity: 0.7; -webkit-transition: -webkit-transform 0.2s, opacity 0.2s; -moz-transition: -moz-transform 0.2s, opacity 0.2s; transition: transform 0.2s, opacity 0.2s; }
+.hi-icon-effect-7b .hi-icon:hover:before { -webkit-transform: scale(1); -moz-transform: scale(1); -ms-transform: scale(1); transform: scale(1); opacity: 1; }

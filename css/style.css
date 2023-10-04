@@ -1,0 +1,318 @@
+body { font-family: 'Montserrat', sans-serif; }
+
+
+.pb10 { padding-bottom:10px !important; }
+.pb20 { padding-bottom:20px !important; }
+.pb30 { padding-bottom:30px !important; }
+.pb40 { padding-bottom:40px !important; }
+.pb50 { padding-bottom:50px !important; }
+.pb60 { padding-bottom:60px !important; }
+
+.pt10 { padding-top:10px !important; }
+.pt20 { padding-top:20px !important; }
+.pt30 { padding-top:30px !important; }
+.pt40 { padding-top:40px !important; }
+.pt50 { padding-top:50px !important; }
+.pt60 { padding-top:60px !important; }
+
+.mb0 { margin-bottom:0px !important; }
+.mb5 { margin-bottom:5px !important; }
+.mb10 { margin-bottom:10px !important; }
+.mb20 { margin-bottom:20px !important; }
+.mb30 { margin-bottom:30px !important; }
+.mb40 { margin-bottom:40px !important; }
+.mb50 { margin-bottom:50px !important; }
+.mb60 { margin-bottom:60px !important; }
+
+.mt10 { margin-top:10px !important; }
+.mt20 { margin-top:20px !important; }
+.mt30 { margin-top:30px !important; }
+.mt40 { margin-top:40px !important; }
+.mt50 { margin-top:50px !important; }
+.mt60 { margin-top:60px !important; }
+
+.ml40 { margin-left: 40px !important; }
+
+.dropdown-item.active, .dropdown-item:active { background:#fcb729; color:#fff; }
+
+.imgwidth img { width:75%; margin:0 auto; border-radius:10px; }
+.imgwidth  { text-align:center; }
+
+.width100per { width:100%; }
+.width80per { width:80%; margin:0 auto; }
+
+.headertop {  display: flex;  justify-content: space-between; align-items:flex-end; padding:10px; }
+.navclose { display:none; }
+.logomain { width: 115px; }
+.logomain img { width:100%; }
+
+.headertop .navbar-light .navbar-nav .nav-link { color:#333; font-weight:500; padding:10px 20px; font-size:18px; }
+.headertop .navbar-expand-lg { padding:0; }
+
+.bannermain { position:relative; }
+.bannerimg { width:100%; background:#f3f3f3; }
+.bannercaption {position: absolute;width: 90%;margin: 0 auto;left: 0;right: 0; top:15px; }
+.bannercaption h1 { font-size: 42px;color: #fbb629;margin: 0;line-height: normal; font-weight:700; margin-bottom:5px; }
+.bannercaption p { font-size: 18px; color: #000;font-weight:500;line-height: normal; margin:0; }
+.homeonebox { width:90%; margin:0 auto; }
+.plain-text { font-size:18px; color:#333; line-height:normal; margin-bottom:20px; font-weight:500; }
+
+.hometwo { position:relative; }
+.hometwo:before { content:""; position:absolute; top:0; left:0; right:0; width:100%; height:88%; background:#f1f0f0; border-radius:0 0 80px 80px; z-index:-1; }
+
+
+.followimg { width:100%; height:200px; object-fit:contain; margin-bottom:10px; }
+.followmainp { font-size:22px; color:#333; margin-bottom:10px; font-weight:600; text-align:center; line-height:normal; }
+
+.sectiontitle {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.processimg { margin-bottom:-7px; }
+
+.yellowcolor { color:#fcb729 !important; }
+.blackcolor { color:#333 !important; }
+.whitecolor { color:#fff !important; }
+.greycolor { color:#455a64 !important; }
+.footerwidth { width:80%; margin:0 auto; display: flex;justify-content:space-between; }
+/*.footerwidth .col-md-3 { max-width:27%; flex:0 0 27%; }
+.footerwidth .col-md-5 { max-width:39%; flex:0 0 3%9gma; }
+.footerwidth .col-md-4 {  }*/
+
+.rightimg { width:30px; }
+
+.homethreemain { background:#f1f0f0; }
+.homethree { background:#fcb729; border-radius:50px 50px 50px 0; padding:50px; position:relative; }
+.homethree:after { content:''; background:url(../images/yellowcross.png) no-repeat left bottom; position: absolute; bottom: -44px; left: 0; width: 150px; height: 80px; }
+.homethree p { color:#fff; font-size:24px; font-weight:600; vertical-align:middle; line-height:normal; }
+.homethree p big { font-size:250%; font-weight:800; }
+.homethree p img { width:40px; vertical-align:sub; }
+.homethree .row .col-md-6 { padding-left:25px; padding-right:25px; }
+
+
+.processbox { display:flex; align-items:center; justify-content:center; width:90%; margin:0 auto; }
+.processbox img { width:50px; }
+.processbox p { font-size:20px; width:30%; color: #333; line-height: 126%; font-weight:700; margin-bottom:0; }
+
+.homefour {  }
+.lastbutton button { padding:20px 50px; width:48%; margin:10px; background:none; border:2px solid #fcb729; color:#000; font-weight:500; border-radius:15px; font-size:22px; }
+
+.footernav {  background:#f1f0f0;  padding: 30px 0;  border-radius: 100px 100px 0 0; }
+.footernav h3 { font-size:22px; color:#fcb729; margin-bottom:20px; font-weight:600;  }
+.footernav p { font-size:18px; color:#000; font-weight:500; margin-bottom:0; line-height:normal; }
+.footernav p a { font-size:18px; color:#000; font-weight:500; margin-bottom:0; }
+.footernav a { font-size:18px; color:#000; font-weight:500; margin-bottom:0; }
+
+.footerblack { background:#263238; padding:10px; text-align:center; }
+.footerblack p { margin-bottom:0; color:#ddd; font-size:14px; }
+
+
+.whyphysioiconbox svg { width: 100px; height: 100px; }
+.whyphysioiconbox .col-md-3 { margin-bottom:20px; }
+
+.aboutone { background:#f1f0f0; padding-top:20px; padding-bottom:20px; border-radius:40px; }
+
+.aboutusbutton button { width:100% !important; padding:20px; font-size:18px; }
+
+.abouttwo .rightimg { width:40px; }
+
+.peoplebox { text-align:center; }
+.peoplebox img { width:70%; margin:0 auto; }
+.peoplebox .autname { margin-bottom:0; font-size:24px; color: #fff; font-weight:800; margin-top:20px; }
+.peoplebox .autname span { font-weight:600; display:block; }
+
+.presencebox  { padding-left:0; margin-bottom:0; list-style-type:none; text-align:center; }
+.presencebox li { padding: 17px;font-size:14px; color:#333; font-weight:600; margin: 10px; border: 1px solid #fcb729;
+    width: 13%; display: inline-block; text-align: center; border-radius: 10px; }
+
+.faqyellowbox { border:2px solid #fcb729; border-radius:10px; padding:2px; }
+.sectiontitlep { font-size:26px; line-height:normal; }
+.faqyellowbox .faqyellowheader { background: #fcb729;
+    padding: 8px;
+    text-align: center;
+    border-radius: 8px;
+    width: calc(100% + 4px);
+    margin-left: -2px;
+    margin-top: -2px; }
+.faqyellowbox .faqyellowheader h3 { font-size:22px; margin:0; line-height:normal; color:#fff; }
+.faqyellowbox .faqyellowbody { background:#fff; padding:20px; } 
+
+.checkbutton { background: none;
+    border: 2px solid #fcb729;
+    color: #000;
+    font-weight: 500;
+    border-radius: 15px;
+    font-size: 16px;
+    position: relative;
+    padding: 17px;
+    width: 100%; }
+.checkbuttonsvg { position:absolute; bottom: -34px; left: 10px; width:40px; }
+.checkbuttonsvg svg { width:100%; }
+
+.phyfaqbox .faqyellowheader { background:#000; }
+.phyfaqbox p { color: #333; font-size: 16px; font-weight: 500; }
+
+.physicalbutton { padding-left:0; margin-bottom:0; }
+.physicalbutton li { display:inline-block; width:40%; padding:7px; }
+.physicalbutton li button { padding: 20px; font-size: 16px; color: #fff; width: 100%; background: none;
+    border: 2px solid #fff;  border-radius: 10px; font-weight:500; }
+
+/*.physicalfitnessmainser p { font-size:inherit; font-weight:inherit; }*/
+
+.servicebottomyellow { background:#fff; border:2px solid #fcb729; padding:20px; border-radius:10px; margin-top:-12px; position:relative; }
+.servicebottomyellow h3 { font-size:18px; text-align:center; margin-bottom:10px; }
+.servicebottomyellow p { font-size:13px; color:#333; font-weight:500; line-height:22px; }
+.servicebottomyellow ul { margin-top:10px; margin-bottom:0; padding-left:0px; }
+.servicebottomyellow ul li  { width:45%; display:inline-block; font-size:14px;margin-bottom:10px; font-weight:500; }
+.servicebottomyellow ul li .checkbuttonsvg { position: inherit;
+    width: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 7px; }
+.servicebottomyellow ul li span svg { width:100%; height:auto; }
+
+.serviceleftsvgstyle svg { height:auto; width:100%; }
+
+.physicalfitnessmainser {  position: relative; padding:50px; }
+.physicalfitnessmainser .container { position:relative; z-index:2; }
+.physicalfitnessmainser:after {     content: '';
+    background: url(../images/yellowcross.png) no-repeat left bottom;
+    position: absolute;
+    top: -44px;
+    right: 0;
+    width: 150px;
+    height: 80px;
+    transform: rotateX(185deg) rotateY(185deg); }
+.physicalfitnessmainsermain { position:relative; }
+.physicalfitnessmainsermain:after { content:''; background:url(../images/greycross.png) no-repeat left bottom; position: absolute; bottom: -44px; left: 0; width: 150px; height: 80px; }
+.physicalfitnessmainser:before { content:''; background: #fcb729; border-radius: 50px 0px 50px 50px; position:absolute; top:0; left:0; width:100%; height:90%; z-index:0; }
+
+.manageprocesscheck { width: 45px;
+    display: inline-block;
+    position: absolute;
+    top: -28px;
+    right: 30px; }
+.manageprocesscheck .manageprocesschecksvg { width:100%; }
+.whatphysioservices { padding:15px; border:2px solid #fcb729; margin-bottom:15px; border-radius:10px; }
+.whatphysioservices p { margin-bottom:0; font-size:14px; font-weight:500; }
+
+.physicalbutton li button { border-color:#333; color:#333; }
+.choose200 { font-size:18px; display:block; font-weight:500; }
+
+.virtualtext .plain-text { margin-bottom:40px !important; }
+.virtualtext .plain-text big { display:block; width:100%; margin-bottom:10px; font-weight:600; }
+.virtualserviceslast .servicebottomyellow { margin-top:-40px; }
+
+
+.formmain input { border:2px solid #fcb729; color:#333; font-size:14px; padding:15px; background:none; border-radius:15px; width:100%; }
+.formmain input::placeholder { color:#333; font-size:14px; }
+.formmain textarea::placeholder { color:#333; font-size:14px; }
+.formmain textarea { border:2px solid #fcb729; color:#333; font-size:14px; padding:15px; background:none; border-radius:15px; width:100%; min-height:242px; }
+.formmain button { background:#fcb729; padding:10px; border-radius:20px; border:1px solid #fcb729; outline:none; width:320px; font-size:16px; color:#fff; font-weight:500; }
+
+.contactyellowform { border-radius:0px 50px 50px 50px; }
+.contactyellowform:after { content: '';top: -45px;bottom:inherit;transform: rotate(180deg) rotateY(180deg); }    
+.contactyellowform input { color:#fff; border-color:#fff; }
+.contactyellowform input::placeholder { color:#fff; }
+.contactyellowform textarea { color:#fff; border-color:#fff; }
+.contactyellowform textarea::placeholder { color:#fff; }
+.contactyellowform button { color:#fff; background:#333; border-color:#333; }
+
+.maplast a { font-size:18px; color:#333; font-weight:500; }
+.maplast a .fa { font-size:22px; color:#fcb729; vertical-align:middle; margin-right:5px; }
+
+
+.calctablebox { border:2px solid #fcb729; padding:20px; width:80%; margin:0 auto; }
+.calctablebox p { font-size:18px; font-weight:600; margin-bottom:10px; }
+.calctableboxflex { display:flex; align-items:flex-end; width:80%;justify-content:space-between; margin:0 auto; margin-bottom:30px; }
+.calctableboxflex input { border:2px solid #fcb729; padding:10px; display:inline-block; border-radius:10px; width:100px; }
+.calctablebox button { background: #333; color: #fff; padding: 10px 30px; border-radius: 15px; width: 50%; margin:0 auto; font-size:18px; }
+.bmiref { border:2px solid #fcb729; padding:15px; color:#ccc; border-radius:10px; width:40%; margin:0 auto; font-size:16px; line-height:normal; }
+
+
+.dassmain { background:#f1f0f0; }
+.launch button { background:#fcb729; padding:8px 30px; border:0; outline:none; border-radius:10px; font-weight:500; }
+
+.meaningbox ul { padding-left:0; margin-bottom:0; display:flex; }
+.meaningbox ul li { display:flex; border:1px solid #fcb729; margin:3px; width:25%; padding:15px; background:#fff; text-align:center; justify-content:center; font-weight:500; font-size:16px; }
+.meaningbox ul:first-child li { color:#fcb729; }
+.meaningbox ul:first-child li:first-child { border-radius:20px 0 0 0; }
+.meaningbox ul:first-child li:last-child { border-radius:0 20px 0 0; }
+
+/*.meaningbox ul:last-child li { color:#fcb729; }*/
+.meaningbox ul:last-child li:first-child { border-radius:0 0 0 20px; }
+.meaningbox ul:last-child li:last-child { border-radius:0 0 20px 0; }
+
+
+.dassmainbox svg { width: 100%; transform: translateX(50px); z-index: 9;  position: relative; }
+
+.calctableone { display:flex; width: 100%; }
+
+.calcinputflex { width:80%; margin:0 auto; }
+.calcinputflex input { border:2px solid #fcb729; padding:10px; display:inline-block; border-radius:10px; width:100px; width:100%; }
+.calcinputflex select { border:2px solid #fcb729; padding:10px; display:inline-block; border-radius:10px; width:100px; appearance: none !important; position:relative; outline:none; }
+.calctableoneselect { position:relative; }
+.calctableoneselect:after { content:"\f107";     font-family: FontAwesome; color:#fcb729; font-size:20px; position:absolute; top:10px; right:10px; font-weight:600; }
+
+
+.calctableone { margin-bottom:20px; }
+.calctableone p { white-space: nowrap; margin-bottom:0; margin-right:40px; }
+/*.calctableone input { margin:0 10px; }*/
+/*.calctableone select { margin:0 10px; }*/
+.calctableone { align-items: center; }
+.calctablefour .calctableoneselect { margin:0 10px; }
+
+.calctablethree select { width:100%; }
+
+.calcinputflex {  }
+
+
+.calcboxesmain ul { padding-left:0; margin-bottom:0; }
+.calcboxesmain ul li { width:17%; display:inline-block; margin:10px; }
+.calcboxesmain ul li div { border-radius:40px; background:blue; display:flex; align-items:center; justify-content:space-between; padding:7px; padding-left:15px; }
+.calcboxesmain ul li p { font-size:12px; line-height:normal; color:#fff; margin:0; font-weight:600; }
+.calcboxesmain ul li p span { display:block; font-size:18px; margin-top:2px; }
+.calcboxesmain ul li p span small { font-size:12px; font-weight:600; }
+.calcboxesmain ul li h3 { background: #fff; width: 60px; height: 60px; border-radius: 50%;display: flex; align-items: center; justify-content: center; font-size: 18px; margin: 0; line-height: normal; font-weight: 600;}
+
+.calcboxesmain ul li:nth-child(1) div { background:#1c64f4; }
+.calcboxesmain ul li:nth-child(2) div { background:#8cc81e; }
+.calcboxesmain ul li:nth-child(3) div { background:#fcb729; }
+.calcboxesmain ul li:nth-child(4) div { background:#ff8c00; }
+.calcboxesmain ul li:nth-child(5) div { background:#ff3c00;}
+.font18 { font-size:18px !important; font-weight:500; }
+
+.mlbox { margin-left:-25px; }
+
+.whatphysioservices .yellowcolor { font-weight:600; }
+.borderwhite li button { border-color:#fff !important; color:#fff !important; }
+.headermain { width:100%; position:fixed; top:0; z-index:99; background:#fff; }
+header{ height:85px; }
+
+@keyframes zoomIn{
+    0%{opacity:0;-webkit-transform:scale3d(.8,.8,.8);transform:scale3d(.8,.8,.8)}
+    50%{opacity:1}
+}
+.zoomIn{-webkit-animation-name:zoomIn;animation:zoomIn 5s forwards;}
+
+@keyframes bounsce{
+    0%{ transform: translateY(0px); }
+    50%{ transform: translateY(10px); }
+    100%{ transform: translateY(0px); }
+}
+.bounsce{-webkit-animation-name:bounsce;animation:bounsce 0.8s infinite;}
+
+
+.virtualtextboxmain {display: flex; padding:10px; border:2px solid #fcb729; border-radius:10px; margin-bottom:20px; background:#fff; }
+.virtualtextboxmainleft { width:30%; border-radius:10px; }
+.virtualtextboxmainleft img { width:100%; border:1px solid #fcb729; border-radius:7px; }
+.virtualtextboxmainright { width:60%; margin-left:20px; position:relative; }
+.virtualtextboxmainright a { font-size: 14px; color: #fcb729;padding:8px 15px; border: 1px solid #fcb729; border-radius: 8px; position:absolute; bottom:0; left:0; font-weight:500; }
+.virtualtextboxmainright p { line-height: 180%; font-size:16px; }
+.navbar-nav .dropdown-menu { padding:0;padding: 0; border: 1px solid #fbb629; background: #fbb629; }
+.dropdown-item { color:#fff; padding:8px 16px; }
+.dropdown-item:hover { background:#e4aa32; color:#fff; }
+
+.form-error { font-size:12px !important; color:red !important; font-weight:400 !important; margin:0; margin-top:3px; }
+

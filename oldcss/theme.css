@@ -1,0 +1,108 @@
+/* Maintanance S
+-------------------------*/
+.mb-4{
+	margin-bottom: 1.5rem;
+}
+.body-wrapper::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+.maintanance-wrapper {
+	position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    text-align: center;
+    background:url(../images/banner.jpg) no-repeat scroll center center;
+    background-size: cover;
+    min-height: 100vh;
+    box-sizing: border-box;
+	color: #3e3e3e;
+}
+.maintanance-inner{
+	max-width: 800px;
+	position: relative;
+	z-index: 999;
+}
+.maintanance-inner h2{
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.maintanance-inner img{
+	width: 250px;
+}
+.overlay {
+    position: absolute;
+    background: #d4cbcb4f;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.get-in-touch h2{
+	font-size: 30px;
+ 	font-weight: 600;
+    margin: 28px 0 20px;
+}
+.get-in-touch a{
+	display: inline-block;
+	font-size: 19px;
+	color: #3e3e3e;
+}
+.get-in-touch a:hover{
+	text-decoration: none;
+}
+.get-in-touch a img {
+    vertical-align: middle;
+    width: auto;
+    height: 22px;
+}
+.common-big-text {
+    font-size: 21px;
+}
+
+@media (max-width: 767px){
+    .maintanance-wrapper{
+        background: url(../images/banner.jpg) no-repeat scroll left 32% center;
+        background-size: cover;
+    }
+    .maintanance-inner img {
+        width: 200px;
+    }
+    .maintanance-inner h2 {
+        font-size: 23px;
+    }
+    .common-big-text {
+        font-size: 17px;
+    }
+    .get-in-touch h2 {
+        font-size: 20px;
+        margin: 15px 0;
+    }
+    .get-in-touch a {
+        font-size: 16px;
+    }
+    .get-in-touch a img {
+        height: 18px;
+    }
+}
+@media (max-width: 575px){
+    .maintanance-inner img {
+        width: 170px;
+    }
+    .get-in-touch h2 {
+        font-size: 19px;
+        margin: 12px 0;
+    }
+    .get-in-touch a {
+        font-size: 15px;
+    }
+    .get-in-touch a img {
+        height: 18px;
+    }
+}
+/* Maintanance E
+-------------------------*/
